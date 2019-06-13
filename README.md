@@ -2,7 +2,7 @@
 ***
 R code implementing the air pollution-health warning system of the province of Quebec proposed in the paper:
 
-> Masselot, P., Chebana, F., Lavigne, É., Campagna, C., Gosselin, P., Ouarda, T.B.M.J., 2019. Toward an improved air pollution warning system in Quebec. *International Journal of Environmental Research and Public Health.*
+> Masselot, P., Chebana, F., Lavigne, É., Campagna, C., Gosselin, P., Ouarda, T.B.M.J., 2019. Toward an Improved Air Pollution Warning System in Quebec. *International Journal of Environmental Research and Public Health* **16**, 2095. https://doi.org/10.3390/ijerph16122095
 
 This repository contains the following files:
 * Main.R: Main code executing all four steps of the methodology as well as the sensitivity analysis. The code also produce the figures found in the article;
